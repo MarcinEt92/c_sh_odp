@@ -1,0 +1,11 @@
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\01_01_01_Products\01_01_01_Products\bin\Debug\netcoreapp3.0\01_01_01_Products.exe
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\01_01_01_Products\01_01_01_Products\bin\Debug\netcoreapp3.0\01_01_01_Products.deps.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\01_01_01_Products\01_01_01_Products\bin\Debug\netcoreapp3.0\01_01_01_Products.runtimeconfig.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\01_01_01_Products\01_01_01_Products\bin\Debug\netcoreapp3.0\01_01_01_Products.runtimeconfig.dev.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\01_01_01_Products\01_01_01_Products\bin\Debug\netcoreapp3.0\01_01_01_Products.dll
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\01_01_01_Products\01_01_01_Products\bin\Debug\netcoreapp3.0\01_01_01_Products.pdb
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\01_01_01_Products\01_01_01_Products\obj\Debug\netcoreapp3.0\01_01_01_Products.csprojAssemblyReference.cache
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\01_01_01_Products\01_01_01_Products\obj\Debug\netcoreapp3.0\01_01_01_Products.AssemblyInfoInputs.cache
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\01_01_01_Products\01_01_01_Products\obj\Debug\netcoreapp3.0\01_01_01_Products.AssemblyInfo.cs
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\01_01_01_Products\01_01_01_Products\obj\Debug\netcoreapp3.0\01_01_01_Products.dll
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\01_01_01_Products\01_01_01_Products\obj\Debug\netcoreapp3.0\01_01_01_Products.pdb

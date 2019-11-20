@@ -1,0 +1,46 @@
+﻿
+List 1.1 do 1.4
+static void Main(string[] args)
+        {
+            Console.WriteLine("ArrayList:");
+            ArrayList arrayListOfProducts = Product_csh1.GetSampleProducts();
+            
+            foreach (var item in arrayListOfProducts)
+            {
+                Console.WriteLine($"{item}");
+            }
+
+            Console.WriteLine("\nGenericList:");
+            List<Product_csh2> genericListOfProducts = Product_csh2.GetSampleProducts();
+
+            foreach (var item in genericListOfProducts)
+            {
+                Console.WriteLine($"{item}");
+            }
+
+            Console.WriteLine("\nList in C#3:");
+            List<Product_csh3> listInCsh3 = Product_csh3.GetProducts();
+            var o = new Product_csh3("abc", 3.0m);
+            listInCsh3.Add(o);
+            listInCsh3.Add(new Product_csh3("additional emelent", 0.0m));
+            
+
+            foreach (var item in listInCsh3)
+            {
+                Console.WriteLine($"{item}");
+            }
+
+            Console.WriteLine("\nList in C#4:");
+            List<Product_csh4> listInCsh4 = Product_csh4.GetSampleProducts();
+            var p = new Product_csh4("def", 5.0m);
+            listInCsh4.Add(p);
+
+            foreach (var item in listInCsh4)
+            {
+                Console.WriteLine($"{item}");
+            }
+        }
+
+
+
+		genericListOfProductsCs3.Sort(delegate(Product_csh3 x, Product_csh3 y) { return x.Name.CompareTo(y.Name); }); // no interface implementation required
