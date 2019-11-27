@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using System.Xml.Linq;
 
 namespace _01_01_01_Products
 {
@@ -77,7 +78,8 @@ namespace _01_01_01_Products
 
             Console.WriteLine("\nSorted Generic List C#3: ");
 
-            genericListOfProductsCs3.Sort(delegate(Product_csh3 x, Product_csh3 y) { return x.Name.CompareTo(y.Name); });
+            genericListOfProductsCs3.Sort(delegate (Product_csh3 x, Product_csh3 y) { return x.Name.CompareTo(y.Name); });
+            
             
             foreach (var item in genericListOfProductsCs3)
             {
@@ -120,6 +122,49 @@ namespace _01_01_01_Products
 
             Console.WriteLine("\nDisplaying products which price has null value: ");
             foreach (var item in genericListOfProductsCs4.Where(p => p.Price == null))
+            {
+                Console.WriteLine(item);
+            }
+
+            Console.WriteLine("\nDisplaying products which price is bigger than 8, listing 1.15: ");
+            IEnumerable<Product_csh4> biggerThanEightProducts = from Product_csh4 p in genericListOfProductsCs4
+                                          where p.Price > 10
+                                          orderby p.Price, p.Name
+                                          select p;
+            foreach (Product_csh4 item in biggerThanEightProducts)
+            {
+                Console.WriteLine(item);
+            }
+
+
+            Console.WriteLine("\nCreating List Of suppliers and make connections between products and suppliers listing 1.16 ");
+
+            List<Product_csh4> listOfProdForSuppliersCs4 = Product_csh4.GetSampleProducts();
+            List<Supplier> listOfSuppCs4 = Supplier.GetSampleSuppliers();
+
+            var filtered = from product in listOfProdForSuppliersCs4
+                           join supplier in listOfSuppCs4
+                             on product.SupplierId equals supplier.SupplierId
+                             orderby product.Name, supplier.Name
+                           select new { ProductName = product.Name, SupplierName = supplier.Name };
+
+            foreach (var item in filtered)
+            {
+                Console.WriteLine($"Product Name: {item.ProductName}, Supplier Name: {item.SupplierName}");
+            }
+
+
+            Console.WriteLine("\nMake connections between products and suppliers from XML file listing 1.17 ");
+
+            XDocument document = XDocument.Load("dane.xml");
+            var filteredXml = from product in document.Descendants("Product")
+                              join supplier in document.Descendants("Supplier")
+                                on (int)product.Attribute("SupplierID") equals (int)supplier.Attribute("SupplierID")
+                              where (decimal)product.Attribute("Price") > 10
+                              orderby (string)product.Attribute("Name"), (string)supplier.Attribute("Name")
+                              select new { ProductName = product.Attribute("Name"), SupplierName = supplier.Attribute("Name") };
+
+            foreach (var item in filteredXml)
             {
                 Console.WriteLine(item);
             }

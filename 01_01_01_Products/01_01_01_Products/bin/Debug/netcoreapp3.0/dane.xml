@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+  <Products>
+    <Product Name="Ogniem i mieczem" Price="9.99" SupplierID="1" />
+    <Product Name="Potop" Price="14.99" SupplierID="2" />
+    <Product Name="Krzyżacy" Price="13.99" SupplierID="1" />
+    <Product Name="Faraon" Price="10.99" SupplierID="3" />
+  </Products>
+  <Suppliers>
+    <Supplier Name="Złote filmy" SupplierID="1" />
+    <Supplier Name="Klasyczne filmy" SupplierID="2" />
+    <Supplier Name="Wszystkie filmy, jakich szukasz" SupplierID="3" />
+  </Suppliers>
+</Data>
