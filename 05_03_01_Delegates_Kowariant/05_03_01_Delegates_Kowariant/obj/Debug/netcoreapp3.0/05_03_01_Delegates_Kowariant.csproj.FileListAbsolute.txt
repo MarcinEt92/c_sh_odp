@@ -1,0 +1,11 @@
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_03_01_Delegates_Kowariant\05_03_01_Delegates_Kowariant\bin\Debug\netcoreapp3.0\05_03_01_Delegates_Kowariant.exe
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_03_01_Delegates_Kowariant\05_03_01_Delegates_Kowariant\bin\Debug\netcoreapp3.0\05_03_01_Delegates_Kowariant.deps.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_03_01_Delegates_Kowariant\05_03_01_Delegates_Kowariant\bin\Debug\netcoreapp3.0\05_03_01_Delegates_Kowariant.runtimeconfig.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_03_01_Delegates_Kowariant\05_03_01_Delegates_Kowariant\bin\Debug\netcoreapp3.0\05_03_01_Delegates_Kowariant.runtimeconfig.dev.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_03_01_Delegates_Kowariant\05_03_01_Delegates_Kowariant\bin\Debug\netcoreapp3.0\05_03_01_Delegates_Kowariant.dll
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_03_01_Delegates_Kowariant\05_03_01_Delegates_Kowariant\bin\Debug\netcoreapp3.0\05_03_01_Delegates_Kowariant.pdb
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_03_01_Delegates_Kowariant\05_03_01_Delegates_Kowariant\obj\Debug\netcoreapp3.0\05_03_01_Delegates_Kowariant.csprojAssemblyReference.cache
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_03_01_Delegates_Kowariant\05_03_01_Delegates_Kowariant\obj\Debug\netcoreapp3.0\05_03_01_Delegates_Kowariant.AssemblyInfoInputs.cache
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_03_01_Delegates_Kowariant\05_03_01_Delegates_Kowariant\obj\Debug\netcoreapp3.0\05_03_01_Delegates_Kowariant.AssemblyInfo.cs
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_03_01_Delegates_Kowariant\05_03_01_Delegates_Kowariant\obj\Debug\netcoreapp3.0\05_03_01_Delegates_Kowariant.dll
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_03_01_Delegates_Kowariant\05_03_01_Delegates_Kowariant\obj\Debug\netcoreapp3.0\05_03_01_Delegates_Kowariant.pdb

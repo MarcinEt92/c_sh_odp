@@ -1,0 +1,11 @@
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\06_01_01_Iterators\06_01_01_Iterators\06_01_01_Iterators\bin\Debug\netcoreapp3.0\06_01_01_Iterators.exe
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\06_01_01_Iterators\06_01_01_Iterators\06_01_01_Iterators\bin\Debug\netcoreapp3.0\06_01_01_Iterators.deps.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\06_01_01_Iterators\06_01_01_Iterators\06_01_01_Iterators\bin\Debug\netcoreapp3.0\06_01_01_Iterators.runtimeconfig.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\06_01_01_Iterators\06_01_01_Iterators\06_01_01_Iterators\bin\Debug\netcoreapp3.0\06_01_01_Iterators.runtimeconfig.dev.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\06_01_01_Iterators\06_01_01_Iterators\06_01_01_Iterators\bin\Debug\netcoreapp3.0\06_01_01_Iterators.dll
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\06_01_01_Iterators\06_01_01_Iterators\06_01_01_Iterators\bin\Debug\netcoreapp3.0\06_01_01_Iterators.pdb
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\06_01_01_Iterators\06_01_01_Iterators\06_01_01_Iterators\obj\Debug\netcoreapp3.0\06_01_01_Iterators.csprojAssemblyReference.cache
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\06_01_01_Iterators\06_01_01_Iterators\06_01_01_Iterators\obj\Debug\netcoreapp3.0\06_01_01_Iterators.AssemblyInfoInputs.cache
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\06_01_01_Iterators\06_01_01_Iterators\06_01_01_Iterators\obj\Debug\netcoreapp3.0\06_01_01_Iterators.AssemblyInfo.cs
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\06_01_01_Iterators\06_01_01_Iterators\06_01_01_Iterators\obj\Debug\netcoreapp3.0\06_01_01_Iterators.dll
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\06_01_01_Iterators\06_01_01_Iterators\06_01_01_Iterators\obj\Debug\netcoreapp3.0\06_01_01_Iterators.pdb

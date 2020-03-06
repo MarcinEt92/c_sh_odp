@@ -1,0 +1,11 @@
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\03_02_01_GenericTypes\03_02_01_GenericTypes\bin\Debug\netcoreapp3.0\03_02_01_GenericTypes.exe
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\03_02_01_GenericTypes\03_02_01_GenericTypes\bin\Debug\netcoreapp3.0\03_02_01_GenericTypes.deps.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\03_02_01_GenericTypes\03_02_01_GenericTypes\bin\Debug\netcoreapp3.0\03_02_01_GenericTypes.runtimeconfig.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\03_02_01_GenericTypes\03_02_01_GenericTypes\bin\Debug\netcoreapp3.0\03_02_01_GenericTypes.runtimeconfig.dev.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\03_02_01_GenericTypes\03_02_01_GenericTypes\bin\Debug\netcoreapp3.0\03_02_01_GenericTypes.dll
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\03_02_01_GenericTypes\03_02_01_GenericTypes\bin\Debug\netcoreapp3.0\03_02_01_GenericTypes.pdb
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\03_02_01_GenericTypes\03_02_01_GenericTypes\obj\Debug\netcoreapp3.0\03_02_01_GenericTypes.csprojAssemblyReference.cache
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\03_02_01_GenericTypes\03_02_01_GenericTypes\obj\Debug\netcoreapp3.0\03_02_01_GenericTypes.AssemblyInfoInputs.cache
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\03_02_01_GenericTypes\03_02_01_GenericTypes\obj\Debug\netcoreapp3.0\03_02_01_GenericTypes.AssemblyInfo.cs
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\03_02_01_GenericTypes\03_02_01_GenericTypes\obj\Debug\netcoreapp3.0\03_02_01_GenericTypes.dll
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\03_02_01_GenericTypes\03_02_01_GenericTypes\obj\Debug\netcoreapp3.0\03_02_01_GenericTypes.pdb

@@ -1,0 +1,11 @@
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates_WF\05_01_01_Delegates_WF\bin\Debug\netcoreapp3.0\05_01_01_Delegates_WF.exe
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates_WF\05_01_01_Delegates_WF\bin\Debug\netcoreapp3.0\05_01_01_Delegates_WF.deps.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates_WF\05_01_01_Delegates_WF\bin\Debug\netcoreapp3.0\05_01_01_Delegates_WF.runtimeconfig.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates_WF\05_01_01_Delegates_WF\bin\Debug\netcoreapp3.0\05_01_01_Delegates_WF.runtimeconfig.dev.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates_WF\05_01_01_Delegates_WF\bin\Debug\netcoreapp3.0\05_01_01_Delegates_WF.dll
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates_WF\05_01_01_Delegates_WF\bin\Debug\netcoreapp3.0\05_01_01_Delegates_WF.pdb
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates_WF\05_01_01_Delegates_WF\obj\Debug\netcoreapp3.0\05_01_01_Delegates_WF.csprojAssemblyReference.cache
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates_WF\05_01_01_Delegates_WF\obj\Debug\netcoreapp3.0\05_01_01_Delegates_WF.AssemblyInfoInputs.cache
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates_WF\05_01_01_Delegates_WF\obj\Debug\netcoreapp3.0\05_01_01_Delegates_WF.AssemblyInfo.cs
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates_WF\05_01_01_Delegates_WF\obj\Debug\netcoreapp3.0\05_01_01_Delegates_WF.dll
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates_WF\05_01_01_Delegates_WF\obj\Debug\netcoreapp3.0\05_01_01_Delegates_WF.pdb

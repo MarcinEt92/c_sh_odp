@@ -1,0 +1,9 @@
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates_WF\StandardWF\StandardWF\bin\Debug\StandardWF.exe.config
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates_WF\StandardWF\StandardWF\bin\Debug\StandardWF.exe
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates_WF\StandardWF\StandardWF\bin\Debug\StandardWF.pdb
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates_WF\StandardWF\StandardWF\obj\Debug\StandardWF.csprojAssemblyReference.cache
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates_WF\StandardWF\StandardWF\obj\Debug\StandardWF.Form1.resources
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates_WF\StandardWF\StandardWF\obj\Debug\StandardWF.Properties.Resources.resources
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates_WF\StandardWF\StandardWF\obj\Debug\StandardWF.csproj.GenerateResource.cache
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates_WF\StandardWF\StandardWF\obj\Debug\StandardWF.exe
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates_WF\StandardWF\StandardWF\obj\Debug\StandardWF.pdb

@@ -1,0 +1,11 @@
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates\Delegates\bin\Debug\netcoreapp3.0\_05_01_Delegates.exe
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates\Delegates\bin\Debug\netcoreapp3.0\_05_01_Delegates.deps.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates\Delegates\bin\Debug\netcoreapp3.0\_05_01_Delegates.runtimeconfig.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates\Delegates\bin\Debug\netcoreapp3.0\_05_01_Delegates.runtimeconfig.dev.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates\Delegates\bin\Debug\netcoreapp3.0\_05_01_Delegates.dll
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates\Delegates\bin\Debug\netcoreapp3.0\_05_01_Delegates.pdb
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates\Delegates\obj\Debug\netcoreapp3.0\_05_01_Delegates.csprojAssemblyReference.cache
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates\Delegates\obj\Debug\netcoreapp3.0\_05_01_Delegates.AssemblyInfoInputs.cache
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates\Delegates\obj\Debug\netcoreapp3.0\_05_01_Delegates.AssemblyInfo.cs
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates\Delegates\obj\Debug\netcoreapp3.0\_05_01_Delegates.dll
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\05_01_01_Delegates\Delegates\obj\Debug\netcoreapp3.0\_05_01_Delegates.pdb

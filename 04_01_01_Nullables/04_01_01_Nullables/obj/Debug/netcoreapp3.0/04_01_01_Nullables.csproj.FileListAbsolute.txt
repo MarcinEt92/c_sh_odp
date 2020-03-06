@@ -1,0 +1,11 @@
+C:\Users\mkormanx\source\repos\04_01_01_Nullables\04_01_01_Nullables\bin\Debug\netcoreapp3.0\04_01_01_Nullables.exe
+C:\Users\mkormanx\source\repos\04_01_01_Nullables\04_01_01_Nullables\bin\Debug\netcoreapp3.0\04_01_01_Nullables.deps.json
+C:\Users\mkormanx\source\repos\04_01_01_Nullables\04_01_01_Nullables\bin\Debug\netcoreapp3.0\04_01_01_Nullables.runtimeconfig.json
+C:\Users\mkormanx\source\repos\04_01_01_Nullables\04_01_01_Nullables\bin\Debug\netcoreapp3.0\04_01_01_Nullables.runtimeconfig.dev.json
+C:\Users\mkormanx\source\repos\04_01_01_Nullables\04_01_01_Nullables\bin\Debug\netcoreapp3.0\04_01_01_Nullables.dll
+C:\Users\mkormanx\source\repos\04_01_01_Nullables\04_01_01_Nullables\bin\Debug\netcoreapp3.0\04_01_01_Nullables.pdb
+C:\Users\mkormanx\source\repos\04_01_01_Nullables\04_01_01_Nullables\obj\Debug\netcoreapp3.0\04_01_01_Nullables.csprojAssemblyReference.cache
+C:\Users\mkormanx\source\repos\04_01_01_Nullables\04_01_01_Nullables\obj\Debug\netcoreapp3.0\04_01_01_Nullables.AssemblyInfoInputs.cache
+C:\Users\mkormanx\source\repos\04_01_01_Nullables\04_01_01_Nullables\obj\Debug\netcoreapp3.0\04_01_01_Nullables.AssemblyInfo.cs
+C:\Users\mkormanx\source\repos\04_01_01_Nullables\04_01_01_Nullables\obj\Debug\netcoreapp3.0\04_01_01_Nullables.dll
+C:\Users\mkormanx\source\repos\04_01_01_Nullables\04_01_01_Nullables\obj\Debug\netcoreapp3.0\04_01_01_Nullables.pdb

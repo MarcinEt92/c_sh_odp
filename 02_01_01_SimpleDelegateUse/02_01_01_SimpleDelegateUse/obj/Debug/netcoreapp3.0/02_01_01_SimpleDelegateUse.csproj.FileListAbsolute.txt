@@ -1,0 +1,11 @@
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\02_01_01_SimpleDelegateUse\02_01_01_SimpleDelegateUse\bin\Debug\netcoreapp3.0\02_01_01_SimpleDelegateUse.exe
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\02_01_01_SimpleDelegateUse\02_01_01_SimpleDelegateUse\bin\Debug\netcoreapp3.0\02_01_01_SimpleDelegateUse.deps.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\02_01_01_SimpleDelegateUse\02_01_01_SimpleDelegateUse\bin\Debug\netcoreapp3.0\02_01_01_SimpleDelegateUse.runtimeconfig.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\02_01_01_SimpleDelegateUse\02_01_01_SimpleDelegateUse\bin\Debug\netcoreapp3.0\02_01_01_SimpleDelegateUse.runtimeconfig.dev.json
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\02_01_01_SimpleDelegateUse\02_01_01_SimpleDelegateUse\bin\Debug\netcoreapp3.0\02_01_01_SimpleDelegateUse.dll
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\02_01_01_SimpleDelegateUse\02_01_01_SimpleDelegateUse\bin\Debug\netcoreapp3.0\02_01_01_SimpleDelegateUse.pdb
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\02_01_01_SimpleDelegateUse\02_01_01_SimpleDelegateUse\obj\Debug\netcoreapp3.0\02_01_01_SimpleDelegateUse.csprojAssemblyReference.cache
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\02_01_01_SimpleDelegateUse\02_01_01_SimpleDelegateUse\obj\Debug\netcoreapp3.0\02_01_01_SimpleDelegateUse.AssemblyInfoInputs.cache
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\02_01_01_SimpleDelegateUse\02_01_01_SimpleDelegateUse\obj\Debug\netcoreapp3.0\02_01_01_SimpleDelegateUse.AssemblyInfo.cs
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\02_01_01_SimpleDelegateUse\02_01_01_SimpleDelegateUse\obj\Debug\netcoreapp3.0\02_01_01_SimpleDelegateUse.dll
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\02_01_01_SimpleDelegateUse\02_01_01_SimpleDelegateUse\obj\Debug\netcoreapp3.0\02_01_01_SimpleDelegateUse.pdb

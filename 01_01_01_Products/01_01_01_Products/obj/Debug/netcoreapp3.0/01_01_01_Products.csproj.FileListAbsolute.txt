@@ -9,3 +9,6 @@ C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\01_01_01_Products\01_01_01_Products\ob
 C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\01_01_01_Products\01_01_01_Products\obj\Debug\netcoreapp3.0\01_01_01_Products.AssemblyInfo.cs
 C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\01_01_01_Products\01_01_01_Products\obj\Debug\netcoreapp3.0\01_01_01_Products.dll
 C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\01_01_01_Products\01_01_01_Products\obj\Debug\netcoreapp3.0\01_01_01_Products.pdb
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\01_01_01_Products\01_01_01_Products\bin\Debug\netcoreapp3.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\01_01_01_Products\01_01_01_Products\obj\Debug\netcoreapp3.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\mkormanx\kursy\c_sh_odp\c_sh_odp\01_01_01_Products\01_01_01_Products\obj\Debug\netcoreapp3.0\01_01_01_Products.csproj.ResolveComReference.cache

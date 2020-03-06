@@ -3,6 +3,8 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Xml.Linq;
+using Excel = Microsoft.Office.Interop.Excel;
+
 
 namespace _01_01_01_Products
 {
@@ -115,7 +117,7 @@ namespace _01_01_01_Products
 
             Console.WriteLine("\nSorted Generic List C#4 using linq OrderBy extension method: ");
 
-            foreach (var item in genericListOfProductsCs4.OrderBy(p => p.Name)) // in this way original list is not being modified
+            foreach (var item in genericListOfProductsCs4.OrderBy(p => (p.Name, p.Price))) // in this way original list is not being modified
             {
                 Console.WriteLine($"{item}");
             }
@@ -168,6 +170,11 @@ namespace _01_01_01_Products
             {
                 Console.WriteLine(item);
             }
+
+            
+
+
+
         }
     }
 }
