@@ -34,6 +34,7 @@ namespace _03_02_01_GenericTypes
             integers.Add(4);
 
             Converter<int, double> converter = SquareRoot;
+            //Converter<int, double> converter = delegate (int x) { return Math.Sqrt(x)};
             //Converter<int, double> converter = x => Math.Sqrt(x);
 
             List<double> doubles = integers.ConvertAll<double>(converter);
